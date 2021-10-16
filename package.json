@@ -1,9 +1,18 @@
 {
   "name": "time-converter",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Arthur Lobo",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurLobopro/time-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ArthurLobopro/time-converter/issues"
+  },
+  "homepage": "https://github.com/ArthurLobopro/time-converter#readme",
+  "description": "A simple time converter"
 }

@@ -43,7 +43,7 @@ module.exports = {
     seconds_to_milisseconds, seconds_to_minutes,
     seconds_to_hours, seconds_to_days,
     //Minutes to
-    minutes_to_milisseconds, milisseconds_to_seconds,
+    minutes_to_milisseconds, minutes_to_seconds,
     minutes_to_hours, minutes_to_days,
     //Hours to
     hours_to_milisseconds, hours_to_seconds,
